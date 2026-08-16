@@ -6,7 +6,7 @@ An end-to-end NLP and machine learning pipeline that parses unstructured resumes
 
 The original Excel dataset is too large for GitHub storage limits. You can download the full file here:
 
-📁 [Download jobs_dataset_with_features (Google Drive)](https://drive.google.com/file/d/1JUEjSQCpd-Y5LbK_LK5beYTSqqRb4Ecr/view?usp=drive_link)
+📁 [Download Full Dataset (Google Drive)](https://drive.google.com/file/d/1JUEjSQCpd-Y5LbK_LK5beYTSqqRb4Ecr/view?usp=drive_link)
 
 
 ## ✨ Features
