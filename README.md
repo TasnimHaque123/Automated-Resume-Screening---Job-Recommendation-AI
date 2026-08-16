@@ -2,6 +2,12 @@
 An end-to-end NLP and machine learning pipeline that parses unstructured resumes (PDF/DOCX/TXT), categorizes candidates into target job domains, and matches skill profiles with job openings using custom feature extraction and similarity scoring.  
 
 ---
+## Dataset / Project Files
+
+The original Excel dataset is too large for GitHub storage limits. You can download the full file here:
+
+📁 [Download jobs_dataset_with_features (Google Drive)](https://drive.google.com/file/d/1JUEjSQCpd-Y5LbK_LK5beYTSqqRb4Ecr/view?usp=drive_link)
+
 
 ## ✨ Features
 * **Automated Parsing:** Parses PDF and Docx resumes to extract text.
