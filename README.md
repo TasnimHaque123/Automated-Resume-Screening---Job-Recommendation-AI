@@ -24,3 +24,14 @@ An end-to-end NLP and machine learning pipeline that parses unstructured resumes
    ```bash
    git clone [https://github.com/TasnimHaque123/Automated-Resume-Screening---Job-Recommendation-AI.git]([https://github.com/TasnimHaque123/AI-Resume-Screening.git](https://github.com/TasnimHaque123/Automated-Resume-Screening---Job-Recommendation-AI.git))
    cd Automated-Resume-Screening---Job-Recommendation-AI
+
+## Create & activate virtual environment:
+python -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+
+## Install dependencies:
+pip install -r requirements.txt
+
+
+## Run the app:
+python app.py
